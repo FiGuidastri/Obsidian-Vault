@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "4f2f44724e906595",
+    "type": "split",
+    "children": [
+      {
+        "id": "77bda0435618a3f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aebdd68bd738bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Banco de Dados SQL do Zero ao Avançado/Seção 4 - SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4ed48c907575320",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6df7d9685e92348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5533fd92f28dade",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbbf93ab08d3d93b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06f37ed7ce1818f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "162f3c6c04df6a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "910e199fa1d24a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ef2a283606b846",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos/Banco de Dados SQL do Zero ao Avançado/Seção 4 - SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4f6c9bd3d7e06e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos/Banco de Dados SQL do Zero ao Avançado/Seção 4 - SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5635f7d37c59d884",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9e4e3879d5e1813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursos/Banco de Dados SQL do Zero ao Avançado/Seção 4 - SQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9aebdd68bd738bfb",
+  "lastOpenFiles": [
+    "programação.md",
+    "sql.md",
+    "Cursos/Banco de Dados SQL do Zero ao Avançado.md",
+    "Cursos/Banco de Dados SQL do Zero ao Avançado/Seção 4 - SQL.md",
+    "Cursos/Banco de Dados SQL do Zero ao Avançado",
+    "Cursos/formacao-python-backend-dev-dio/Untitled.md",
+    "python.md",
+    "Resumos Artigos/5 Projetos de IA que posso fazer com Python.md",
+    "Untitled.canvas",
+    "Resumos Artigos",
+    "Anotações",
+    "Cursos.md",
+    "Cursos",
+    "Untitled 1.md",
+    "Cursos/formacao-python-backend-dev-dio",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

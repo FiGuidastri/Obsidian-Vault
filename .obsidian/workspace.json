@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c79191e5064a8139",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e504704285c21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f7074e8d3bd374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "segundo-cerebro/2 - Cursos/SQL/Banco de Dados SQL do Zero ao Avançado + Projetos Reais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afdaea439b2f558d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcfd29173303b11d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1943d084f59e0e3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "278b54e8c7002c53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f809448a5396b308",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf3f7b1f909b7fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae2bff7b4818e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1e42e010f8e423",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "segundo-cerebro/2 - Cursos/SQL/Banco de Dados SQL do Zero ao Avançado + Projetos Reais.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7040d07a8884eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "segundo-cerebro/2 - Cursos/SQL/Banco de Dados SQL do Zero ao Avançado + Projetos Reais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd094c8278f2e3d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d79ce1064a0b7318",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "segundo-cerebro/2 - Cursos/SQL/Banco de Dados SQL do Zero ao Avançado + Projetos Reais.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "38f7074e8d3bd374",
+  "lastOpenFiles": [
+    "segundo-cerebro/3 - Tags/data science.md",
+    "segundo-cerebro/2 - Cursos/SQL/Banco de Dados SQL do Zero ao Avançado + Projetos Reais.md",
+    "Untitled.canvas",
+    "Pasted image 20241010165459.png",
+    "artigos.md",
+    "segundo-cerebro/4 - Resumos Artigos/5 Projetos de IA que posso fazer com Python.md",
+    "segundo-cerebro/3 - Tags/Cursos.md",
+    "segundo-cerebro/5 - Resumos de Livros",
+    "segundo-cerebro/3 - Tags/python.md",
+    "segundo-cerebro/3 - Tags/sql.md",
+    "segundo-cerebro/3 - Tags/programação.md",
+    "segundo-cerebro/2 - Cursos/Banco de Dados SQL do Zero ao Avançado.md",
+    "segundo-cerebro/3 - Tags",
+    "segundo-cerebro/Segundo Cerébro/Welcome.md",
+    "create a link.md"
+  ]
+}
