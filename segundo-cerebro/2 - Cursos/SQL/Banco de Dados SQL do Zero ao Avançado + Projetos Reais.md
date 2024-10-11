@@ -55,3 +55,63 @@ SELECT * FROM clientes WHERE nome REGEXP '^Ana';
 ```
 SELECT * FROM clientes WHERE nome REGEXP 'son$';
 ```
+---
+# Seção 5 - JOIN
+
+## 35. INNER JOIN
+Coloca dados de duas tabelas em uma só, junta duas tabelas.
+```
+SELECT *
+FROM customer
+JOIN payment ON customer.customer_id = paymente.payment_id --on é utilizado para indicar as chaves
+```
+## 39. Operador UNION
+Combina os resultados de duas ou mais queries em um único result set, retornando todas as linhas pertencentes a todas as queries envolvidas na execução. Para utilizar o UNION, o número e a ordem das colunas precisam ser idênticos em todas as queries e os data types precisam ser compatíveis.
+O operador UNION, por default, executa o equivalente a um SELECT DISTINCT no result set final. Ele elimina as duplicatas automaticamente. Este processo é executado mesmo que não hajam registros duplicados.
+
+---
+
+# Seção 6 - Manipulando dados
+
+40. Informações sobre tabelas
+
+	No mysql workbench podemos verificar as informações da tabela e verificar tipos de dados nas linhas e também os parâmetro (not null, primary key, foreign key, auto increment).
+	
+	Podemos também selecionar os dados default para as linhas quando houver uma nova inserção
+	
+41. Adicionando uma linha na tabela
+	
+	Utilizamos a seguinte sintaxe para inserir dados em uma tabela:
+```
+INSERT INTO nome_tabela (podemos inserir as colunas que iremos inserir os dados)
+VALUES (inserimos os valores)
+```
+	
+42. Adicionando multiplas linhas
+	
+	Para isso precisamos apenas inserir mais linhas de valores no código acima.
+	
+	Para inserir em várias tabelas, basta fazer o código acima para todas as tabelas que deseja.
+	
+44. Copiar uma tabela completa
+	vamos fazer o comando de inserir uma tabela juntamente com um select da tabela que 
+	desejamos copiar.
+	
+45. Remover uma tabela
+	DROP TABLE remove os dados e a tabela do meu schema
+	TRUNCATE TABLE remove apenas os dados da minha tabela, mantendo a mesma no schema.
+	
+46. Atualizando um valor
+	Usamos o comando UPDATE e com o SET para definir qual vai ser o valor atualizado, juntamente com o WHERE para definir qual vai ser o registro que será alterado.
+---
+# Seção 7 - Funções
+48. Introdução a Funções
+	[Funções](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+49. Funções básicas
+	max() pega o valor máximo de uma coluna
+	min() pega o valor minimo de uma coluna
+	avg() pega a média de valores de uma coluna
+	Podemos usar ``as`` para definir nomes
+50. Utilizando COUNT e SUM
+	SUM() soma a todos os valores de uma coluna
+	COUNT() conta valores not null de uma coluna
